@@ -18,7 +18,7 @@ My bachelor’s thesis, done at TUL, investigated chemical etching (CE) as a pos
 - <b>Digital Microscope</b> 
 - <b>Ultrasound cleaner</b> 
 - <b>Moisture balance</b> 
-- <b>Servo hydraulic Axial - Torsional Test System</b>
+- <b>Servohydraulic Axial - Torsional Test System</b>
 
 <h2>Results:</h2>
 
