@@ -22,9 +22,11 @@ My bachelor’s thesis, done at TUL, investigated chemical etching (CE) as a pos
 
 <h2>Results:</h2>
 
+<br/>
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="./images/4_different_times.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+Figure 1: Samples in the same X% concentration but processed for different times.
 <br />
 
 
