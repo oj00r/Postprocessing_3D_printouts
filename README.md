@@ -10,7 +10,7 @@ This method not only allows for the creation of adjustable shapes for bone impla
 
 <h2>Materials</h2>
 
-- <b>10x10x10mm Cubic samples - printed with Titanium alloy</b>
+- <b>10x10x10mm Porous cubic samples - printed with titanium alloy</b>
 - <b>Hydrofluoric Acid of X%, Y% and Z%</b>
 - <b>Isopropanol</b>
 
@@ -22,37 +22,40 @@ This method not only allows for the creation of adjustable shapes for bone impla
 - <b>Moisture balance</b> 
 - <b>Servohydraulic Axial - Torsional Test System</b>
 
-<h2>Results:</h2>
+<h2>Procedure and Results</h2> 
+<br/> 
+<p align="center"> <img src="./images/4_different_times.png" height="80%" width="80%" alt="Different times"/> 
+</p> 
+<p align="center"> Figure 1: Samples processed in the same X% concentration but for different times. 
+</p>
 
-<br/>
-<p align="center">
-<img src="./images/4_different_times.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p align="center">
-Figure 1: Samples in the same X% concentration but processed for different times.
-<br />
+After post-processing, the samples were analyzed under a digital microscope. Surface evaluation was used to determine the optimal concentration and processing time. The first photo of Fig 1. clearly shows under-etched material, while the last photo shows over-etched one.
 
-<br/>
-<p align="center">
-<img src="./images/mass_loses.png" height="80%" width="80%" alt="mass loses"/>
-<p align="center">
-Figure 2: Samples in the same X% concentration but processed for different times.
-<br />
+<br/> <p align="center"> <img src="./images/mass_loses.png" height="80%" width="80%" alt="Mass losses"/> </p> <p align="center"> Figure 2: Samples in the same X% concentration processed for different times. </p>
 
-<br/>
-<p align="center">
-<img src="./images/compression_test.png" height="80%" width="80%" alt="compression test"/>
-<p align="center">
-Figure 3: Samples in the same X% concentration but processed for different times.
-<br />
+<br/> 
+<p align="center"> 
+ <img src="./images/compression_test.png" height="80%" width="80%" alt="Compression test"/> </p> 
+<p align="center"> 
+ Figure 3: Compression test analysis for samples etched at different times. 
+</p> 
 
-<br/>
-<p align="center">
-<img src="./images/depth.png" height="80%" width="80%" alt="depth"/>
-<p align="center">
-Figure 4: Samples in the same X% concentration but processed for different times.
-<br />
+Samples’ weights were analyzed before and after etching (- look Fig 2.), as well as their compression strength. Figure 3 shows an exemplary results of compression test, highlighting the region of plastic deformation, which is unwated in human implants.
 
+<br/> 
+<p align="center"> 
+ <img src="./images/depth.png" height="80%" width="80%" alt="Etching depth"/> </p> 
+<p align="center"> 
+ Figure 4: Etching depth measurement of the best-performing samples processed using two different CE stirring methods.
+</p>
 
+Finally, the etching depth of the best-performing samples was evaluated. They were sawed in half and distance from the surface to the first particles occuring. In general, the differences were noticable.
+
+<h2>Summary</h2>
+
+Doing the thesis on 3D printing introduced me to problems that can occur at every step of manufacturing a product, no matter if it is very popular or niche. In this project, I was able to determine near-optimal conditions, though challenges like particles trapped inside the porous structure remain.
+
+I also gained insight into the wide variety of tests and material properties available with current state-of-the-art technology. Overall, I am very glad to have experienced engineering problem worked under a cooperation with scietits at my univeristy, which can only my perspecitve in solving real-world problems :).
 <!--
  ```diff
 - text in red
