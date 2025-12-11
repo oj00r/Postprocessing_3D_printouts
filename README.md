@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-My bachelor’s thesis, done at TUL, investigated chemical etching (CE) as a post-processing method for 3D-printed titanium parts produced via SLM. This method not only allows for the creation of adjustable shapes for bone implants but also enables the modification of porosity and internal structure to better mimic the properties of host tissue. However, during manufacturing, loose particles can adhere to the material’s surface, making the implant potentially hazardous for a patient. Luckly, this risk can be minimized by etching the object in strong acid, which was the my main objective. 
+My bachelor’s thesis, done at TUL, investigated chemical etching (CE) as a post-processing method for 3D-printed titanium parts produced via SLM. 
+This method not only allows for the creation of adjustable shapes for bone implants but also enables the modification of porosity and internal structure to better mimic the properties of host tissue. However, during manufacturing, loose particles can adhere to the material’s surface, making the implant potentially hazardous for a patient. Luckly, this risk can be minimized by etching the object in strong acid, which was the my main objective. 
 <br />
 
 
