@@ -29,6 +29,27 @@ My bachelor’s thesis, done at TUL, investigated chemical etching (CE) as a pos
 Figure 1: Samples in the same X% concentration but processed for different times.
 <br />
 
+<br/>
+<p align="center">
+<img src="./images/mass_loses" height="80%" width="80%" alt="mass loses"/>
+<p align="center">
+Figure 2: Samples in the same X% concentration but processed for different times.
+<br />
+
+<br/>
+<p align="center">
+<img src="./images/compression_test" height="80%" width="80%" alt="compression test"/>
+<p align="center">
+Figure 3: Samples in the same X% concentration but processed for different times.
+<br />
+
+<br/>
+<p align="center">
+<img src="./images/depth.pjg" height="80%" width="80%" alt="depth"/>
+<p align="center">
+Figure 4: Samples in the same X% concentration but processed for different times.
+<br />
+
 
 <!--
  ```diff
